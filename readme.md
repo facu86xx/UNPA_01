@@ -5,4 +5,3 @@
 *Integrantes*
 
 * Serafini Facundo <facundo_serafini@outlook.com>
-* Henry Jaime <hggjaime@gmail.com>
