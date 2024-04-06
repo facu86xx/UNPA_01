@@ -1,4 +1,4 @@
-# Diplomado en tecnologias y gestn de Hidrocarburos
+# Diplomado en tecnologias y gestion de Hidrocarburos
 
 ## NOVA DIPLO
 
